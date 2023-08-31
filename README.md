@@ -1,2 +1,4 @@
-# Scripts
-Scripts I have created over time for security.
+<div align="center">
+
+# 💾Scripts💾
+Scripts/commands I have created or found over time for security.
